@@ -17,7 +17,7 @@ Perfect for learning data handling and basic financial analytics.
 
 ## 📦 Setup
 ```bash
-git clone https://github.com/YOUR_USERNAME/expense-tracker.git
+git clone https://github.com/QuantCore99/expense-tracker.git
 cd expense-tracker
 pip install -r requirements.txt
 python expense_tracker.py
