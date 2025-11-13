@@ -42,4 +42,4 @@ Amount: 4.50
 - Add Google Sheets sync
 
 ## 👤 Author
-Created by YOUR NAME ([@yourusername](https://github.com/yourusername))
+Created by Oluwasegun Adebayo ([@QuantCore99](https://github.com/QuantCore99))
